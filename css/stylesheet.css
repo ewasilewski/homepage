@@ -99,7 +99,7 @@ section#slider {
 	background-position: 50% 50%;
 	background-attachment: fixed;
 	background-repeat: repeat;
-	height: 100%;
+	height: 400px;
 }
 /* Animated Slider Picture */
 .slider-bg-animated {
@@ -561,20 +561,20 @@ section {
 	-o-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
-.work-experience-timeline .url{	
+.work-experience-timeline .url{
 	font-size: 16px;
 	font-weight: 400;
 	padding-top: 12px;
-	padding-bottom: 6px;	
+	padding-bottom: 6px;
 }
 .work-experience-timeline .url a{
-	color: #e4545b;	
+	color: #e4545b;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
-.work-experience-timeline .url a:hover{	
+.work-experience-timeline .url a:hover{
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
@@ -1392,7 +1392,7 @@ a.scrollup:hover i {
 	padding-left: 14px;
 	margin-left: 4px;
 	margin-right: 4px;
-}	
+}
 }
 
 @media (max-width:767px) {
