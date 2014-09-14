@@ -99,7 +99,7 @@ section#slider {
 	background-position: 50% 50%;
 	background-attachment: fixed;
 	background-repeat: repeat;
-	height: 300px;
+	height: 100%;
 }
 /* Animated Slider Picture */
 .slider-bg-animated {
