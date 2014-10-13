@@ -1,4 +1,0 @@
-TODO:homepage
-========
-
-My homepage
